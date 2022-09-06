@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: 'Anek Telugu', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.top-bg{
+    background-image: url("pic/header-bg.png");
+    background-repeat:no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+h1{
+    font-size: 50px;
+}
+.text-highlight{
+    color: deeppink;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+     color: white;
+     font-weight: 700;
+
+}
+.half-width img{
+    width: 100%;
+}
+section{
+     height: 600px;
+}
+.mid-bg{
+    background-image: url("pic/biography-bg.png");
+    background-repeat:no-repeat;
+}
+.one-Third-width{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+   
+}
+.one-Third-width img{
+    width: 100%;
+}
+.work-bg{
+    background-image: url("pic/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.wk{
+    text-align: center;
+}
+.box{
+   
+    padding: 20px 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 20, 145, 0.911);
+   margin: 2% 20% ;
+     color: white;
+     height: 150px;
+   
+
+}
+#light-text{
+    color: rgba(0, 0, 0, 0.356);
+}
+
+#Email{
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 50px;
+    color: white;
+    
+}
+footer{
+    text-align: center;
+}
